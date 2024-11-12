@@ -1,4 +1,4 @@
-##  ELECTRÓNICA DIGITAL 1 2024-1
+##  ELECTRÓNICA DIGITAL 1 2024-2
 ##   UNIVERSIDAD NACIONAL DE COLOMBIA 
 
 ### Profesor:
@@ -18,6 +18,7 @@
 * [2022-1](https://unal-edigital1.github.io/2022-1/)
 * [2022-2](https://unal-edigital1.github.io/2022-2/)
 * [2023-1](https://unal-edigital1.github.io/2023-1/)
+* [2024-1](https://unal-edigital1.github.io/2024-1/)
 
 	
 
@@ -40,9 +41,7 @@ Requisitos: Aparte de los establecidos en cada uno de los programas que incluye 
 * Adopción y utilización de metodologías de diseño modernas basadas en representaciones funcionales, estructúrales y físicas.
 * Sembrar las bases para el desarrollo de aplicaciones comerciales.
 
-### Contenido  
-* Introducción al Diseño Electrónico Digital  
-* Representación de Datos y Sistemas Numéricos
+### Contenido de laboratorio 
 * Lógica Combinacional
 * Lógica Secuencial FSM
 * Maquinas de Estado Algorítmico
@@ -55,33 +54,6 @@ Requisitos: Aparte de los establecidos en cada uno de los programas que incluye 
 * 15% autoevaluación
 * 15% co-evaluación
 
-
-## Documentos de las clases teóricas 
-
-Semana   | Tema   | Material 
---       | --     | --         
-Semana 1 | introducción | [week1_pdf](./slides/week01/week1_digital1.pdf)| 
-Semana 2 | sistema Númerico | [week2_pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week02)| 
-Semana 3 | logica combinacional | [week3_pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week03)| 
-Semana 4 | logica combinacional/análisis de tiempos | [week4_pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week04)| 
-Semana 5 y 6 | logica Secuencial  | [week5-6_pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week05-06)| 
-Semana 7 | Proyecto y maquinas de estado   | [informe labs.pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week07)| 
-Semana 8 | Maquinas de estado  Algoritmico  | [week8_pdf](https://github.com/unal-edigital1/2024-1/tree/master/slides/week08)| 
-
-## Videos de tutorias de proyectos
-
-Todos los videos los encuentra en la carpeta de drive, en este [link](https://drive.google.com/drive/folders/1SNzuV_2fBC8KMoJJ_IXuEhirtNdHYryF?usp=sharing)
-
-Semana   | Tema   | Material 
---       | --     | --         
-6 de Abril | Explicación de la 1 entrega | [video 1](https://drive.google.com/file/d/1R_En9b5jw5dj_m-tmyqB1kqwUGPQnM8y/view?usp=drive_link) y [Video 2](https://drive.google.com/file/d/1Pu6rF7cpWYjoyeH4reoQa_S7qDrLe90h/view?usp=sharing)|
-8 de Abril | Matriz 8x8, max 7912,  SPI, ADC|  [video 1](https://drive.google.com/file/d/1vpltPd9aAVmT5m7gOqj64tkOBXOZJM6I/view?usp=sharing)|
-10 de abril |  pantalla LCD diver ILI91363C y ultrasonido | [video 1](https://drive.google.com/file/d/1LC2rz3Vd6-stt9pG4VR9rrmfUbIQ5KTe/view?usp=drive_link)  y [video 2](https://drive.google.com/file/d/15VnkXs6pFVoRfnI4S53dAh0XMq6-iM1M/view?usp=sharing) | 
-15 de abril |  Explicación de como hacer la logica de SPI |[video 1](https://drive.google.com/file/d/1p7SczdC5pQDNCdn3FxL2B7pj7cMABNUB/view?usp=drive_link) | 
-17 de abril |  Explicación de la arquitectura y Spec |[video 1](https://drive.google.com/file/d/12Px3RmUWvcI4d9DKrKQV-sJZZDL7EO3e/view?usp=sharing) | 
-24 de abril | Retroalimentación de 1 entrega | [Video 1](https://drive.google.com/file/d/1vE_GVYG7uDJuqb-V5x-1cq3RN9HjOGAV/view?usp=sharing) y [Video 2](https://drive.google.com/file/d/1Pj0XkCHgAmq5UDRgBxCLlLcFJM7BMhxY/view?usp=sharing)|
-4 de mayo | 1-wire y revisión de FSM para matriz 8x8 | [Video 1](https://drive.google.com/file/d/13H_Tg8are5IwLzRMJawv9-5SzLxDPnHF/view?usp=sharing) |
-6 de mayo| 7AM ,se habla de antirrebote,  y dos grupos presentan avances, 9AM un grupo presenta avances| [Video 7am ](https://drive.google.com/file/d/1NleWg2dt6s4VOwgn5kR6kMvGPKHhDCzL/view?usp=drive_link) y [Video 9am ](https://drive.google.com/file/d/1XCK2AI_rc1k2iQyc9urWMa47Ebiiksx7/view?usp=drive_link) | 
 
 ## Estructura de los Laboratorios y Proyecto 
 
@@ -149,11 +121,13 @@ Semana   | Tema   | Guia de laboratorio | WP | deadline
 --       | --     | --            	| -- | --   
 Semana 1 | instalación Quartus | [link](./labs/lab00.md) | |
 Semana 1 | Opcional | [L00 Basico](https://classroom.github.com/a/NBX54cVx) | |
-Semana 2 | L1 Configuracion de Git y Quartus sum1b | [link](./labs/lab01.md) |  [L01 sum1b](https://classroom.github.com/a/htUgMbYE)  |
+Semana 2  | L1 Configuracion de Git y Quartus sum1b | [link](./labs/lab01.md) |  [L01 sum1b](https://classroom.github.com/a/htUgMbYE)  |
 Semana 3 | L2 Sumador 4b  y testbench| [link](./labs/lab02.md) | [L02](https://classroom.github.com/a/e9yDU7Fo) |  |
-Semana 4 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/BzHX2gMj) | |
-Semana 6 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/iWcCTIMU)| |
-Semana 7 | L5 multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/3rQcJ08L) | |
+Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/BzHX2gMj) | |
+Semana 7 y 8 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/iWcCTIMU)| |
+Semana 8 y 9 | L5 multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/3rQcJ08L) | |
+Semana 10 y 11 | introduccion al procesador | | | |
+
 
 
 ## laboratorios  complementarios 
@@ -267,47 +241,13 @@ La rúbrica de evaluación de las entregas es:
 
 ### Cronograma 
 
-entrega  | link repositorio  | fecha 
-   --  | --  | --
- 1 |[primera entrega](https://classroom.github.com/a/Ag3phzjS)| 5 de agosto 2024
-
 
 ## Entregas de proyecto y evaluaciones
 
 [link de Coevaluaciòn y autoevaluaciòn](https://docs.google.com/forms/d/e/1FAIpQLSc0ZfITe_KCbQaQM6C9V4qGzUoEzUS8bPdsZB0O4iVfqZ8ocA/viewform?usp=sf_link)
 
-1. [Grupo 01](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo01-2024-1)
-2. [Grupo 02](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo02-2024-1)
-3. [Grupo 03](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo03-2024-1)
-4. [Grupo 04](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo04-2024-1)
-5. [Grupo 05](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo05-2024-1)
-6. [Grupo 06](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo06-2024-1)
-7. [Grupo 07](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo07-2024-1)
-8. [Grupo 08](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo08-2024-1)
-9. [Grupo 09](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo09-2024-1)
-10. [Grupo 10](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo10-2024-1)
-11. [Grupo 11](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo11-2024-1)
-12. [Grupo 20](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo20-2024-1)
-13. [Grupo 21](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo21-2024-1)
-14. [Grupo 22](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo22-2024-1)
-15. [Grupo 23](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo23-2024-1)
-16. [Grupo 24](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo24-2024-1)
-17. [Grupo 25](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo25-2024-1)
-18. [Grupo 25a](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo-25a-2024-1)
-19. [Grupo 25b](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo-25b-2024-1)
-20. [Grupo 26](https://github.com/unal-edigital1-lab/entrega-1-proyecto-grupo26-2024-1)
     
 ## Proyectos de años anteriores
-
-1. [Nacho Pong](https://github.com/unal-edigital1-lab/lab06-2022-1-grupo09-22-1-jopaju)
-2. [Digital Drawing](https://github.com/unal-edigital1-lab/wp01-2021-2-grupo03-2021-2)
-3. [Juego de memoria](https://github.com/unal-edigital1-lab/wp01-2021-2-grupo05-2021-2)
-4. [Camara VGA](https://github.com/unal-edigital1-lab/wp01-entregafinal-grupo-01)
-5. [Drumpad con visualización VGA](https://github.com/unal-edigital1-lab/wp01-entregafinal-grupo-06)
-6. [Avatar](https://github.com/unal-edigital1-lab/lab06-2022-2-grupo09_2022-2)
-7. [Piano](https://github.com/unal-edigital1-lab/lab06-2022-2-grupo02_2022-2)
-8. [Concéntrese](https://github.com/unal-edigital1-lab/lab06-2022-2-grupo01_2022-2)
-
 
 
 ## Bibliografía
