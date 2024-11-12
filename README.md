@@ -142,12 +142,11 @@ Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/s
 *[link](https://github.com/unal-edigital1/2021-2/tree/master/docs/recursosCicloneIV/Verilog-Examples)
 
 
-### Especificación de proyecto 
-
-Cada año, el proyecto se propone en la semana 7 del curso. Durante las primeras semanas, se detalla la metodología de selección del proyecto. Para este año, el proyecto se encuentra definido en la siguiente documentación que se encuentra en [project/project2024.md](./project/project2024.md)
 
 
 ## Proyecto
+
+**Para este año, el proyecto se encuentra definido en la siguiente documentación que se encuentra en [project/project2024.md](./project/project2024.md)**
 
 ### Introducción
 
