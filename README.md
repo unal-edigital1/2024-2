@@ -123,7 +123,7 @@ Semana 1 | instalación Quartus | [link](./labs/lab00.md) | |
 Semana 1 | Opcional | [L00 Basico](https://classroom.github.com/a/NBX54cVx) | |
 Semana 2  | L1 Configuracion de Git y Quartus sum1b | [link](./labs/lab01.md) |  [L01 sum1b](https://classroom.github.com/a/NBLOR64J)  |
 Semana 3 | L2 Sumador 4b  y testbench| [link](./labs/lab02.md) | [L02](https://classroom.github.com/a/mYRaIJf7) |  |
-Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/BzHX2gMj) | |
+Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/6U_a1UUv) | |
 Semana 7 y 8 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/)| |
 Semana 8 y 9 | L5 multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
 Semana 10 y 11 | introduccion al procesador | | | |
@@ -149,7 +149,7 @@ Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/s
 **Para este año, el proyecto lo defie cada grupo de estudiantes y debe hacer las entregas en el siguente  paquete de trabajo:**
 
 
-(Link para la primera entrega)[https://classroom.github.com/a/BzHX2gMj]
+(Link para la primera entrega)[https://classroom.github.com/a/J2YLUIOg]
 
 ### Introducción
 
