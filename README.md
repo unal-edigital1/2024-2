@@ -123,7 +123,7 @@ Semana 1 | instalación Quartus | [link](./labs/lab00.md) | |
 Semana 1 | Opcional | [L00 Basico](https://classroom.github.com/a/NBX54cVx) | |
 Semana 2  | L1 Configuracion de Git y Quartus sum1b | [link](./labs/lab01.md) |  [L01 sum1b](https://classroom.github.com/a/NBLOR64J)  |
 Semana 3 | L2 Sumador 4b  y testbench| [link](./labs/lab02.md) | [L02](https://classroom.github.com/a/mYRaIJf7) |  |
-Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/) | |
+Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/BzHX2gMj) | |
 Semana 7 y 8 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/)| |
 Semana 8 y 9 | L5 multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
 Semana 10 y 11 | introduccion al procesador | | | |
@@ -146,7 +146,10 @@ Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/s
 
 ## Proyecto
 
-**Para este año, el proyecto se encuentra definido en la siguiente documentación que se encuentra en [project/project2024.md](./project/project2024.md)**
+**Para este año, el proyecto lo defie cada grupo de estudiantes y debe hacer las entregas en el siguente  paquete de trabajo:**
+
+
+(Link para la primera entrega)[https://classroom.github.com/a/BzHX2gMj]
 
 ### Introducción
 
@@ -167,8 +170,6 @@ El proyecto final es una oportunidad para:
 El éxito en este proyecto no se mide solo por la funcionalidad del sistema o producto final, sino también por la calidad del proceso de diseño, la capacidad para enfrentar y resolver desafíos técnicos, y la habilidad para documentar y comunicar el trabajo realizado de manera efectiva. Este proyecto es, por lo tanto, el paso final hacia la consolidación de una sólida base en electrónica digital, sobre la cual los estudiantes pueden construir en futuros proyectos de ingeniería, investigación o desarrollo tecnológico.
 
 ### Rúbrica
-
-El proyecto equivale al 70% de la nota total del curso, y se realizan 3 entregas de avances del mismo. En este sentido, los laboratorios no son evaluables pero son requisitos fundamentales para poder empezar a trabajar en el proyecto.
 
 La rúbrica de evaluación de las entregas es:
 
