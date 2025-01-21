@@ -149,7 +149,7 @@ Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/s
 **Para este año, el proyecto lo defie cada grupo de estudiantes y debe hacer las entregas en el siguente  paquete de trabajo:**
 
 
-(Link para la primera entrega)[https://classroom.github.com/a/J2YLUIOg]
+[Link para la primera entrega](https://classroom.github.com/a/J2YLUIOg)
 
 ### Introducción
 
