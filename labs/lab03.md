@@ -80,6 +80,13 @@ Se evidencia que se deben construir cuatro módulos  básicos, de los cuales uno
 * Divisor de frecuencia: Su función es dividir la frecuencia de  `clk` de entrada, en el tiempo requerido para cada camvio de ánodo
 * Selector de Ánodo: Sincronizado con la frecuencia  que genera el divisor, cambia en cada instante de tiempo el  ánodo, se puede ver como un registro de desplazamiento del bit 0 `1110 1101 1011 0111`
 * Selector de Datos: dependiendo del ánodo activado, activa los datos correspondientes.
+  
+# Miniproyecto
+Una vez que completes la visualización en el hardware, integra esta configuración con el sistema del laboratorio anterior de medición de carga de baterías, asegurando los siguientes requisitos:
+
+* La visualización debe mostrar los valores en formato decimal en lugar de hexadecimal.
+* Las alarmas deben mantenerse visualizadas a través de LEDs, mientras que el valor de la carga se debe exhibir en los displays de 7 segmentos.
+
 
 # Entregables
 
@@ -100,12 +107,9 @@ En el paquete de trabajo esta la descripción del hardware que se implementa par
 * implementar en la tarjeta el desarrollo de HDL según los parametros dados en clase, primero el de 1 display  y luego el de 4 display
 * Comprobar la lógica en la FPGA 
 * Introducir cada uno de los números posibles mediante los interruptores, y verifica que se muestran todos correctamente. recuerde para un display se requieren 4 interruptores  y para  4 display es necesario 32 interruptores
+* Realice la descripción de la solución del miniproyecto y explicar la configuración que hizo 
 * Realice lo comentarios necesarios en el archivo README.md.
 
-
-3. Adicionales 
-* Modificar o Añadir los bloques necesarios para que la visualización sea en representación Decimal y no Hexadecimal.
-* Realice la respectiva publicación del repositorio antes de la fecha dada con todo el código fuente
 
 
 # Deadline
