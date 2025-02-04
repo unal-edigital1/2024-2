@@ -251,9 +251,15 @@ La rúbrica de evaluación de las entregas es:
     
 ## Proyectos presentaados en 2024-2 
 
-Link Grupo    | Link Grupo    | Link Grupo      | Link Grupo     |  
---       | --        | --    | --    
-[]() |  []() |  []() |  []() 
+Link Grupo    | Link Grupo    | Link Grupo      | Link Grupo     
+--            | --            | --              | --    
+[Grupo01](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo01-2024-2) | [Grupo02](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo02-2024-2) | [Grupo03](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo03-2024-2) | [Grupo04](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo04-2024-2)
+[Grupo05](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo05-2024-2) | [Grupo06](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo06-2024-2) | [Grupo07](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo07-2024-2) | [Grupo08](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo08-2024-2)
+[Grupo09](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo09-2024-2) | [Grupo10](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo10-2024-2) | [Grupo11](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo11-2024-2) | [Grupo12](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo12-2024-2)
+[Grupo13](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo13-2024-2) | [Grupo14](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo14-2024-2) | [Grupo15](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo15-2024-2) | [Grupo16](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo16-2024-2)
+[Grupo17](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo17-2024-2) | [Grupo18](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo18-2024-2) | [Grupo19](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo19-2024-2) | [Grupo20](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo20-2024-2)
+
+
 
 
 ## Bibliografía
