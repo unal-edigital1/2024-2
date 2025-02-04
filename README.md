@@ -249,7 +249,11 @@ La rúbrica de evaluación de las entregas es:
 [link de Coevaluaciòn y autoevaluaciòn](https://docs.google.com/forms/d/e/1FAIpQLSc0ZfITe_KCbQaQM6C9V4qGzUoEzUS8bPdsZB0O4iVfqZ8ocA/viewform?usp=sf_link)
 
     
-## Proyectos de años anteriores
+## Proyectos presentaados en 2024-2 
+
+Link Grupo    | Link Grupo    | Link Grupo      | Link Grupo     |  
+--       | --        | --    | --    
+[]() |  []() |  []() |  []() 
 
 
 ## Bibliografía
