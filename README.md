@@ -122,11 +122,11 @@ Semana   | Tema   | Guia de laboratorio | WP | deadline
 Semana 1 | instalación Quartus | [link](./labs/lab00.md) | |
 Semana 1 | Opcional | [L00 Basico](https://classroom.github.com/a/NBX54cVx) | |
 Semana 2  | L1 Configuracion de Git y Quartus sum1b | [link](./labs/lab01.md) |  [L01 sum1b](https://classroom.github.com/a/NBLOR64J)  |
-Semana 3 | L2 Sumador 4b  y testbench| [link](./labs/lab02.md) | [L02](https://classroom.github.com/a/mYRaIJf7) |  |
-Semana 4, 5 , 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/6U_a1UUv) | |
-Semana 7 y 8 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/)| |
-Semana 8 y 9 | L5 multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
-Semana 10 y 11 | introduccion al procesador | | | |
+Semana 3 y 4 | L2 Sumador 4b  y testbench| [link](./labs/lab02.md) | [L02](https://classroom.github.com/a/mYRaIJf7) |  |
+Semana 5 y 6 | L3 BCD2sseg display 7 segmentos | [link](./labs/lab03.md) | [L03](https://classroom.github.com/a/6U_a1UUv) | |
+Semana 7 y 8 | L4 Banco de Registro| [link lab](./labs/lab04.md) [link video](https://github.com/unal-edigital1/2024-1/blob/master/labs/figs/CLASELAB4.mp4) | [L04](https://classroom.github.com/a/dJHtr290)| |
+Semana 9 a 11| Fase 1 Proyecto | [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
+Semana 11 a 13 | Fase 2 Proyecto | | | |
 
 
 
@@ -137,6 +137,8 @@ Tema     | Subtema   | Guia  | WP |
 Visualización | VGA| [link](./labs/Visualización/labVGA/lab_add_VGA_01.md) |[WP LabVGA](https://github.com/unal-edigital1/lab06/tree/main) | |
 Visualización | LCD1602| [link](./labs/Visualizacion/LCD1602) |[HDL](https://github.com/unal-edigital1/2024-1/tree/master/labs/visualizacion/LCD1602/texto) | |
 Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/src) | |
+Multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
+
 
 ### Ejemplos sencillos de programación
 *[link](https://github.com/unal-edigital1/2021-2/tree/master/docs/recursosCicloneIV/Verilog-Examples)
