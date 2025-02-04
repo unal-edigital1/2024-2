@@ -134,10 +134,13 @@ Semana 11 a 13 | Fase 2 Proyecto | | | |
 
 Tema     | Subtema   | Guia  | WP |  
 --       | --        | --    | --    
-Visualización | VGA| [link](./labs/Visualización/labVGA/lab_add_VGA_01.md) |[WP LabVGA](https://github.com/unal-edigital1/lab06/tree/main) | |
+Visualización | VGA| [link](https://github.com/unal-edigital1/2024-1/blob/master/labs/visualizacion/labVGA/lab_add_VGA_01.md) |[WP LabVGA](https://github.com/unal-edigital1/lab06/tree/main) | |
 Visualización | LCD1602| [link](./labs/Visualizacion/LCD1602) |[HDL](https://github.com/unal-edigital1/2024-1/tree/master/labs/visualizacion/LCD1602/texto) | |
+Visualización | matriz8x8| [link](https://github.com/unal-edigital1/2024-1/tree/master/labs/visualizacion/matriz8x8SPI) |[HDL](https://github.com/unal-edigital1/2024-1/tree/master/labs/visualizacion/matriz8x8SPI) | |
 Buses | SPI master| [link](./labs/buses/SPI/spi.md) |[WP SPI](./labs/buses/SPI/src) | |
+botones | antirrebote| [link](https://github.com/unal-edigital1/2024-1/tree/master/labs/antirrebote/antirebote) |[WP SPI](https://github.com/unal-edigital1/2024-1/tree/master/labs/antirrebote/antirebote) | |
 Multiplicador| [link](./labs/lab05.md) |[L05](https://classroom.github.com/a/) | |
+
 
 
 ### Ejemplos sencillos de programación
