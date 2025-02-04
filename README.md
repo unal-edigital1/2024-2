@@ -253,7 +253,7 @@ La rúbrica de evaluación de las entregas es:
 
 Link Grupo    | Link Grupo    | Link Grupo      | Link Grupo     
 --            | --            | --              | --    
-[Grupo01 tamagotchi](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo01-2024-2) | [Grupo02 semáforo Inteligente](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo02-2024-2) | [Grupo03 PONG](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo03-2024-2) | [Grupo04](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo04-2024-2) 
+[Grupo01 tamagotchi](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo01-2024-2) | [Grupo02 semáforo Inteligente](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo02-2024-2) | [Grupo03 PONG](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo03-2024-2) | [Grupo04 tamagotchi2](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo04-2024-2) 
 [Grupo11 Control NFC](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo11-2024-2) | [Grupo12 Snake](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo12-2024-2) | [Grupo13 Pong](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo13-2024-2) | [Grupo14 Tetris](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo14-2024-2) 
 [Grupo15](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo15-2024-2) | [Grupo16 trackeo](https://github.com/unal-edigital1-lab/entrega-proyecto-2024-2-grupo16-2024-2)
 
